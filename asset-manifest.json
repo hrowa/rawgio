@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/rawgio/static/js/main.20744d72.chunk.js",
+    "main.js.map": "/rawgio/static/js/main.20744d72.chunk.js.map",
+    "runtime-main.js": "/rawgio/static/js/runtime-main.3ef0e247.js",
+    "runtime-main.js.map": "/rawgio/static/js/runtime-main.3ef0e247.js.map",
+    "static/js/2.007fd765.chunk.js": "/rawgio/static/js/2.007fd765.chunk.js",
+    "static/js/2.007fd765.chunk.js.map": "/rawgio/static/js/2.007fd765.chunk.js.map",
+    "index.html": "/rawgio/index.html",
+    "static/js/2.007fd765.chunk.js.LICENSE.txt": "/rawgio/static/js/2.007fd765.chunk.js.LICENSE.txt",
+    "static/media/apple.5757c37e.svg": "/rawgio/static/media/apple.5757c37e.svg",
+    "static/media/gamepad.c9269ef5.svg": "/rawgio/static/media/gamepad.c9269ef5.svg",
+    "static/media/logo.9b6b8655.svg": "/rawgio/static/media/logo.9b6b8655.svg",
+    "static/media/nintendo.f579be04.svg": "/rawgio/static/media/nintendo.f579be04.svg",
+    "static/media/playstation.18cc4b9c.svg": "/rawgio/static/media/playstation.18cc4b9c.svg",
+    "static/media/steam.d7b8819f.svg": "/rawgio/static/media/steam.d7b8819f.svg",
+    "static/media/xbox.3e7db735.svg": "/rawgio/static/media/xbox.3e7db735.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ef0e247.js",
+    "static/js/2.007fd765.chunk.js",
+    "static/js/main.20744d72.chunk.js"
+  ]
+}
